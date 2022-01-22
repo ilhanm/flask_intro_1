@@ -12,4 +12,4 @@ def home():
 
 @app.route("/about")
 def about():
-    return "about page not implemented"
+    return render_template('about.html')
