@@ -1,3 +1,3 @@
-FLASK_APP=prj2_renderingHTML/blog.py
+FLASK_APP=prj3_renderingSeperateHTML\starter.py
 FLASK_ENV=development
 FLASK_DEBUG_MODE = 1
